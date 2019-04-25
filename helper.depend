@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555621665 source:c:\users\ahmed\documents\codeblocks\helper\main.cpp
+	"main.h"
+	<windows.h>
+	<stdio.h>
+	"ftd2xx.h"
+
+1555495145 c:\users\ahmed\documents\codeblocks\helper\main.h
+	<windows.h>
+
+1505832386 c:\users\ahmed\documents\codeblocks\helper\ftd2xx.h
+	<windows.h>
+	"WinTypes.h"
+
